@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Heeter Class Project",
+"productVersion": "0.1",
+"dataUrl": "HeeterAtoms.data.unityweb",
+"wasmCodeUrl": "HeeterAtoms.wasm.code.unityweb",
+"wasmFrameworkUrl": "HeeterAtoms.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
